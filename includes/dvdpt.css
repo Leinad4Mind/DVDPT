@@ -1,5 +1,16 @@
-body { background : #000000;  margin : 0;   }
- 
- form {
+body {
+	background: #000000;
+	margin : 0;  
+}
+
+form {
   margin:0;
-  }
+}
+
+.gsc-completion-container {
+    background-color: black !important;
+} 
+
+.gsc-completion-selected {
+    background: #323232 !important;
+}
